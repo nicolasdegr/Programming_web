@@ -1,6 +1,6 @@
 ## README
 
-### API - CampingSiteAPI
+### API - CampingSiteAPI - Nicolas De Greef - IMS - R0864961 - Student Thomas More Hogeschool Mechelen
 
 **Beschrijving:**
 De API is een backend-service voor een campingreserveringssysteem. Het biedt endpoints voor het beheren van campings, gebruikers, boekingen en recensies.
@@ -43,7 +43,7 @@ De Vue-applicatie is de frontend-interface voor gebruikers om campings te verken
    - **Boekingen beheren:** Gebruikers kunnen nieuwe boekingen maken en bestaande boekingen bekijken.
    - **Recensies indienen:** Gebruikers kunnen recensies indienen voor bezochte campings.
 
-2. **Beheerdersfunctionaliteit:**
+2. **Adminfunctionaliteit:**
    - **Campings beheren:** Beheerders kunnen campings toevoegen, bijwerken en verwijderen.
    - **Gebruikers beheren:** Beheerders kunnen gebruikersinformatie bekijken en beheren.
    - **Recensies beheren:** Beheerders kunnen alle recensies bekijken en indien nodig verwijderen.
@@ -62,15 +62,10 @@ De Vue-applicatie is de frontend-interface voor gebruikers om campings te verken
 
 1. **API:**
    - Zorg ervoor dat je .NET Core en LiteDB hebt geïnstalleerd.
+   - Voeg deze NuGet Packages toe: Microsoft.AspNetCore.Mvc, Swashbuckle.ApNetCore, MicrosoftAspNetCore.Cors en Microsoft.AspNetCore.Openapi
    - Voer het project uit vanuit de projectmap.
 
 2. **Vue Applicatie:**
    - Zorg ervoor dat je Node.js en Vue CLI hebt geïnstalleerd.
-   - Voer de volgende commando's uit in de projectmap:
-     ```bash
-     npm install
-     npm run serve
-     ```
+   - Zorg ervoor dat je axios, Vue.js, Vuex, Vue-router en vite hebt geïnstalleerd.
 
-**Contactinformatie:**
-Voor vragen of ondersteuning, neem contact op met de ontwikkelaar via [email@example.com].
