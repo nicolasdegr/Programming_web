@@ -2,6 +2,8 @@
 
 ### API - CampingSiteAPI - Nicolas De Greef - IMS - R0864961 - Student Thomas More Hogeschool Mechelen
 
+NOTE: THERE ARE WETRANSFER LINKS YOU HAVE TO DOWNLOAD BECAUSE THE FILES WERE TO BIG THEY EXPIRE ON THE 27TH OF JULY SO YOU HAVE TIME, THANK YOU AND SORRY FOR THE INCONVENIENCE.
+
 **Beschrijving:**
 De API is een backend-service voor een campingreserveringssysteem. Het biedt endpoints voor het beheren van campings, gebruikers, boekingen en recensies.
 
